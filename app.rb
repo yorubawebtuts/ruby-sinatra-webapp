@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'Welcome to Sinatra App'
+  'Welcome to Yoruba web tuts'
 end
